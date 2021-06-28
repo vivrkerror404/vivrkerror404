@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/bc/55/51/bc5551ac237a9ef4d8e9575662f2e106.gif" style="position:fixed;width:100vw;height:100vh;top:0;left:0;opacity:0.8"/>
 
 <h1 align="center">Hi 👋, I'm vivek sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivrkerror404&label=Profile%20views&color=0e75b6&style=flat" alt="vivrkerror404" /> </p> -->
 
